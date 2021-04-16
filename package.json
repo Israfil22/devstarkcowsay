@@ -11,7 +11,7 @@
     "url": "git@ghub:Israfil22/devstarkcowsay.git"
   },
   "bin": {
-    "say": "index.js"
+    "say": "./index.js"
   },
   "author": "",
   "license": "ISC",
